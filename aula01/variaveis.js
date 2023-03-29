@@ -13,7 +13,7 @@ console.log(objeto.atributo1)
 console.log(objeto.atributo2)
 console.log(objeto.atributo3[0], objeto.atributo3[1], objeto.atributo3[2], objeto.atributo3[3], objeto.atributo3[4], "\n")
 
-for(i=0; i<=10000; i++){
+for(i=0; i<=20; i++){
     if(i%3==0){
         console.log("O número", i, "é divisível por 3")
     } else {
